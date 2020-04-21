@@ -1,0 +1,11 @@
+/Users/vadimzubchenko/C#projects/Tyontekija_inerface_console/Tyontekija_inerface_console/bin/Debug/netcoreapp3.1/Tyontekija_inerface_console.deps.json
+/Users/vadimzubchenko/C#projects/Tyontekija_inerface_console/Tyontekija_inerface_console/bin/Debug/netcoreapp3.1/Tyontekija_inerface_console.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Tyontekija_inerface_console/Tyontekija_inerface_console/bin/Debug/netcoreapp3.1/Tyontekija_inerface_console.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Tyontekija_inerface_console/Tyontekija_inerface_console/bin/Debug/netcoreapp3.1/Tyontekija_inerface_console.dll
+/Users/vadimzubchenko/C#projects/Tyontekija_inerface_console/Tyontekija_inerface_console/bin/Debug/netcoreapp3.1/Tyontekija_inerface_console.pdb
+/Users/vadimzubchenko/C#projects/Tyontekija_inerface_console/Tyontekija_inerface_console/obj/Debug/netcoreapp3.1/Tyontekija_inerface_console.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Tyontekija_inerface_console/Tyontekija_inerface_console/obj/Debug/netcoreapp3.1/Tyontekija_inerface_console.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Tyontekija_inerface_console/Tyontekija_inerface_console/obj/Debug/netcoreapp3.1/Tyontekija_inerface_console.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Tyontekija_inerface_console/Tyontekija_inerface_console/obj/Debug/netcoreapp3.1/Tyontekija_inerface_console.dll
+/Users/vadimzubchenko/C#projects/Tyontekija_inerface_console/Tyontekija_inerface_console/obj/Debug/netcoreapp3.1/Tyontekija_inerface_console.pdb
+/Users/vadimzubchenko/C#projects/Tyontekija_inerface_console/Tyontekija_inerface_console/obj/Debug/netcoreapp3.1/Tyontekija_inerface_console.genruntimeconfig.cache

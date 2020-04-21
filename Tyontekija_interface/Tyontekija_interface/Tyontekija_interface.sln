@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyontekija_interface", "Tyontekija_interface.csproj", "{DD6EC2D0-C99D-4135-BCDE-2F501B5BE8CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD6EC2D0-C99D-4135-BCDE-2F501B5BE8CF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{DD6EC2D0-C99D-4135-BCDE-2F501B5BE8CF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{DD6EC2D0-C99D-4135-BCDE-2F501B5BE8CF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{DD6EC2D0-C99D-4135-BCDE-2F501B5BE8CF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

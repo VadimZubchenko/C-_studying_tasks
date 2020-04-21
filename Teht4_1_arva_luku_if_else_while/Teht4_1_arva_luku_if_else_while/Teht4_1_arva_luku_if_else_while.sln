@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht4_1_arva_luku_if_else_while", "Teht4_1_arva_luku_if_else_while.csproj", "{47456CC1-2046-4E61-9AD7-F58DA0EC0AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47456CC1-2046-4E61-9AD7-F58DA0EC0AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47456CC1-2046-4E61-9AD7-F58DA0EC0AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47456CC1-2046-4E61-9AD7-F58DA0EC0AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47456CC1-2046-4E61-9AD7-F58DA0EC0AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

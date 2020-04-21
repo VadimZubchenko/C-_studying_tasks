@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{7778EC7B-A304-4CDD-B3CF-218D4AD8B600}|Default">
+  <MonoDevelop.Ide.ItemProperties.Tyyppimuunnokset PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument=".vs/Tyyppimuunnokset/xs/project-cache/Tyyppimuunnokset-Debug|anycpu.json">
+    <Files>
+      <File FileName="Tyyppimuunnokset/Ohjelma.cs" Line="133" Column="1" />
+      <File FileName="Tyyppimuunnokset/Tyyppimuunnokset.csproj" Line="7" Column="21" />
+      <File FileName=".vs/Tyyppimuunnokset/xs/project-cache/Tyyppimuunnokset-Debug|anycpu.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Tyyppimuunnokset" expanded="True">
+            <Node name=".vs" expanded="True">
+              <Node name="Tyyppimuunnokset" expanded="True">
+                <Node name="xs" expanded="True">
+                  <Node name="project-cache" expanded="True">
+                    <Node name="Tyyppimuunnokset-Debug|anycpu.json" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Tyyppimuunnokset" expanded="True">
+              <Node name="bin" expanded="True" />
+              <Node name="obj" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../Projects/example/example/:example_2.cs" line="27" column="0" endLine="0" endColumn="0" offsetX="-1" offsetY="-1" expression="tulot" liveUpdate="False" />
+    <Watch file="../../../../Teht_4_1_arva_numero/Teht_4_1_arva_numero/Teht4_1.cs" line="20" column="12" endLine="20" endColumn="19" offsetX="-1" offsetY="-1" expression="Console" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

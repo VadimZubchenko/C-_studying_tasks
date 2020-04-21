@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht5_4_tyontekija_palkka_vertaile", "Teht5_4_tyontekija_palkka_vertaile\Teht5_4_tyontekija_palkka_vertaile.csproj", "{D85012F2-CCC8-47D9-967A-F78714E19B4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D85012F2-CCC8-47D9-967A-F78714E19B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85012F2-CCC8-47D9-967A-F78714E19B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85012F2-CCC8-47D9-967A-F78714E19B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85012F2-CCC8-47D9-967A-F78714E19B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

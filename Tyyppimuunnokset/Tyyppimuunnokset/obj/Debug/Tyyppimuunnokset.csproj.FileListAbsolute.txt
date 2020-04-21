@@ -1,0 +1,6 @@
+/Users/vadimzubchenko/C#projects/Tyyppimuunnokset/Tyyppimuunnokset/bin/Debug/Tyyppimuunnokset.exe
+/Users/vadimzubchenko/C#projects/Tyyppimuunnokset/Tyyppimuunnokset/bin/Debug/Tyyppimuunnokset.pdb
+/Users/vadimzubchenko/C#projects/Tyyppimuunnokset/Tyyppimuunnokset/obj/Debug/Tyyppimuunnokset.csprojAssemblyReference.cache
+/Users/vadimzubchenko/C#projects/Tyyppimuunnokset/Tyyppimuunnokset/obj/Debug/Tyyppimuunnokset.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Tyyppimuunnokset/Tyyppimuunnokset/obj/Debug/Tyyppimuunnokset.exe
+/Users/vadimzubchenko/C#projects/Tyyppimuunnokset/Tyyppimuunnokset/obj/Debug/Tyyppimuunnokset.pdb

@@ -1,0 +1,12 @@
+/Users/vadimzubchenko/C#projects/Csharp_teht_1/Csharp_teht_1/bin/Debug/netcoreapp3.1/Csharp_teht_1.deps.json
+/Users/vadimzubchenko/C#projects/Csharp_teht_1/Csharp_teht_1/bin/Debug/netcoreapp3.1/Csharp_teht_1.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Csharp_teht_1/Csharp_teht_1/bin/Debug/netcoreapp3.1/Csharp_teht_1.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Csharp_teht_1/Csharp_teht_1/bin/Debug/netcoreapp3.1/Csharp_teht_1.dll
+/Users/vadimzubchenko/C#projects/Csharp_teht_1/Csharp_teht_1/bin/Debug/netcoreapp3.1/Csharp_teht_1.pdb
+/Users/vadimzubchenko/C#projects/Csharp_teht_1/Csharp_teht_1/obj/Debug/netcoreapp3.1/Csharp_teht_1.csprojAssemblyReference.cache
+/Users/vadimzubchenko/C#projects/Csharp_teht_1/Csharp_teht_1/obj/Debug/netcoreapp3.1/Csharp_teht_1.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Csharp_teht_1/Csharp_teht_1/obj/Debug/netcoreapp3.1/Csharp_teht_1.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Csharp_teht_1/Csharp_teht_1/obj/Debug/netcoreapp3.1/Csharp_teht_1.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Csharp_teht_1/Csharp_teht_1/obj/Debug/netcoreapp3.1/Csharp_teht_1.dll
+/Users/vadimzubchenko/C#projects/Csharp_teht_1/Csharp_teht_1/obj/Debug/netcoreapp3.1/Csharp_teht_1.pdb
+/Users/vadimzubchenko/C#projects/Csharp_teht_1/Csharp_teht_1/obj/Debug/netcoreapp3.1/Csharp_teht_1.genruntimeconfig.cache

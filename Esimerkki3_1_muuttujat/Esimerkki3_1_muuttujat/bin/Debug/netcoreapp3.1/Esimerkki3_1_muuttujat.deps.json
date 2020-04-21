@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Esimerkki3_1_muuttujat/1.0.0": {
+        "runtime": {
+          "Esimerkki3_1_muuttujat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esimerkki3_1_muuttujat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

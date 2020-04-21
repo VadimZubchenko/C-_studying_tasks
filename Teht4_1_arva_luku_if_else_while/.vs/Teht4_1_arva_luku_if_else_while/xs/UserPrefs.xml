@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{51EAA2AC-B020-4E28-82CE-4746E2D2956F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Tyontekija_interface/Tyontekija_interface/Tyontekija.cs">
+    <Files>
+      <File FileName="Teht4_1_arva_luku_if_else_while/Program.cs" Line="14" Column="3" />
+      <File FileName="../Tyontekija_interface/Tyontekija_interface/Tyontekija.cs" Line="11" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Teht4_1_arva_luku_if_else_while" expanded="True" selected="True">
+            <Node name="Teht4_1_arva_luku_if_else_while" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Teht4_1_arva_luku_if_else_while" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../Projects/example/example/:example_2.cs" line="27" column="0" endLine="0" endColumn="0" offsetX="-1" offsetY="-1" expression="tulot" liveUpdate="False" />
+    <Watch file="../../../../Teht_4_1_arva_numero/Teht_4_1_arva_numero/Teht4_1.cs" line="20" column="12" endLine="20" endColumn="19" offsetX="-1" offsetY="-1" expression="Console" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Teht4__1__arva__luku__if__else__while PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

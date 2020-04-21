@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{31C63D0A-11DF-4763-A66E-CA9E4A01BDE0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Csharp_teht_1/Program.cs">
+    <Files>
+      <File FileName="Csharp_teht_1/Program.cs" Line="19" Column="1" />
+      <File FileName="../Teht4_1_arva_luku_if_else_while/Teht4_1_arva_luku_if_else_while/Teht4_1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Csharp_teht_1" expanded="True">
+            <Node name="Csharp_teht_1" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Csharp__teht__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
