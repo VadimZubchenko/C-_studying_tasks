@@ -1,6 +1,6 @@
 /Users/vadimzubchenko/C#projects/Tyontekija_interface/Tyontekija_interface/bin/Debug/Tyontekija_interface.exe
 /Users/vadimzubchenko/C#projects/Tyontekija_interface/Tyontekija_interface/bin/Debug/Tyontekija_interface.pdb
-/Users/vadimzubchenko/C#projects/Tyontekija_interface/Tyontekija_interface/obj/Debug/Tyontekija_interface.csprojAssemblyReference.cache
 /Users/vadimzubchenko/C#projects/Tyontekija_interface/Tyontekija_interface/obj/Debug/Tyontekija_interface.csproj.CoreCompileInputs.cache
 /Users/vadimzubchenko/C#projects/Tyontekija_interface/Tyontekija_interface/obj/Debug/Tyontekija_interface.exe
 /Users/vadimzubchenko/C#projects/Tyontekija_interface/Tyontekija_interface/obj/Debug/Tyontekija_interface.pdb
+/Users/vadimzubchenko/C#projects/Tyontekija_interface/Tyontekija_interface/obj/Debug/Tyontekija_interface.csprojAssemblyReference.cache

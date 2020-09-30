@@ -1,18 +1,32 @@
-﻿using System;
+﻿//Tässä otetaan käyttöön System-kirjasto, joka 
+//sisältää mm. komennot tekstin ruudulle tulostamiseksi. 
+using System;
 
 namespace Csharp_teht_1
 {
-    class Program
+    
+    //Tämä ohjelma tulostaa "Hei maailma!"-tekstin sekä tämän
+    //hetken päivämäärän ja ajan ruudulle.
+
+    class Esimerkki2_1
     {
-        static void Main(string[] args)
+        /*   
+         * Ohjelman suoritus alkaa seuraavasta komentorivistä.
+         * public kertoo sen, että Main()-metodi on saatavilla
+         * Esimerkki2_1  luokan ulkopuoleltakin.
+         */
+
+        static public void Main()
         {
-            Console.Write("Hello World!\t");
-            Console.WriteLine("Nyt on: " + DateTime.Now + "\n\n");
+            //Tässä tulostetaan "Hei maailma!" ruudulle
+            System.Console.WriteLine("Hei maailma!\v");
 
-            Console.WriteLine("-----Or another way----\n\n");
 
-            Console.WriteLine("Hello World!\t");
-            Console.WriteLine("Nyt on: " + DateTime.Now);
+            //Seuraavassa tulostetaan ruudulle pätkä tekstiä sekä
+            //tämän hetken päivämäärä ja aika.
+            System.Console.WriteLine("Tämän hetken päivämäärä ja aika on: "
+            + System.DateTime.Now);
+
         }
     }
 }

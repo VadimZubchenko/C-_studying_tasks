@@ -2,17 +2,16 @@
   <MonoDevelop.Ide.ItemProperties.Teht5__4__tyontekija__palkka__vertaile PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Teht5_4_tyontekija_palkka_vertaile/Ohjelma.cs">
     <Files>
-      <File FileName="Teht5_4_tyontekija_palkka_vertaile/Ohjelma.cs" Line="1" Column="1" />
+      <File FileName="Teht5_4_tyontekija_palkka_vertaile/Ohjelma.cs" Line="32" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Teht5_4_tyontekija_palkka_vertaile" selected="True" />
-        </State>
-      </Pad>
-      <Pad Id="ClassPad">
-        <State name="__root__">
-          <Node name="Teht5_4_tyontekija_palkka_vertaile" expanded="True" selected="True" />
+          <Node name="Teht5_4_tyontekija_palkka_vertaile" expanded="True">
+            <Node name="Teht5_4_tyontekija_palkka_vertaile" expanded="True">
+              <Node name="Ohjelma.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
@@ -23,7 +22,9 @@
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/vadimzubchenko/C#projects/Teht5_4_tyontekija_palkka_vertaile/Teht5_4_tyontekija_palkka_vertaile/Ohjelma.cs" relfile="Teht5_4_tyontekija_palkka_vertaile/Ohjelma.cs" line="14" column="22" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

@@ -9,3 +9,4 @@
 /Users/vadimzubchenko/C#projects/Teht4_1_arva_luku_if_else_while/Teht4_1_arva_luku_if_else_while/obj/Debug/netcoreapp3.1/Teht4_1_arva_luku_if_else_while.dll
 /Users/vadimzubchenko/C#projects/Teht4_1_arva_luku_if_else_while/Teht4_1_arva_luku_if_else_while/obj/Debug/netcoreapp3.1/Teht4_1_arva_luku_if_else_while.pdb
 /Users/vadimzubchenko/C#projects/Teht4_1_arva_luku_if_else_while/Teht4_1_arva_luku_if_else_while/obj/Debug/netcoreapp3.1/Teht4_1_arva_luku_if_else_while.genruntimeconfig.cache
+/Users/vadimzubchenko/C#projects/Teht4_1_arva_luku_if_else_while/Teht4_1_arva_luku_if_else_while/obj/Debug/netcoreapp3.1/Teht4_1_arva_luku_if_else_while.csprojAssemblyReference.cache

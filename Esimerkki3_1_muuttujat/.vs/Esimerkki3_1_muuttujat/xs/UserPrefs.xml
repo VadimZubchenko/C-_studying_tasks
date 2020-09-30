@@ -1,17 +1,13 @@
 ﻿<Properties StartupConfiguration="{B7426FF1-B1D5-4DD5-93FF-08F4488AB371}|Default">
   <MonoDevelop.Ide.ItemProperties.Esimerkki3__1__muuttujat PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki3_1_muuttujat/Esimerkki3_1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki3_1_muuttujat/Esimerkki3-1.cs">
     <Files>
-      <File FileName="Esimerkki3_1_muuttujat/Esimerkki3_1.cs" Line="164" Column="1" />
+      <File FileName="Esimerkki3_1_muuttujat/Esimerkki3-1.cs" Line="13" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Esimerkki3_1_muuttujat" expanded="True">
-            <Node name="Esimerkki3_1_muuttujat" expanded="True">
-              <Node name="Esimerkki3_1.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node />
         </State>
       </Pad>
     </Pads>
@@ -20,7 +16,7 @@
     <Watch file="../../../../../Projects/example/example/:example_2.cs" line="27" column="0" endLine="0" endColumn="0" offsetX="-1" offsetY="-1" expression="tulot" liveUpdate="False" />
     <Watch file="../../../../Teht_4_1_arva_numero/Teht_4_1_arva_numero/Teht4_1.cs" line="20" column="12" endLine="20" endColumn="19" offsetX="-1" offsetY="-1" expression="Console" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

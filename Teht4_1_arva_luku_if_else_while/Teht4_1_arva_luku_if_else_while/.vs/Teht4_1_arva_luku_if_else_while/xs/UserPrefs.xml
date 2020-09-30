@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{47456CC1-2046-4E61-9AD7-F58DA0EC0AAE}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Teht4_1.cs">
     <Files>
-      <File FileName="Teht4_1.cs" Line="16" Column="7" />
+      <File FileName="Teht4_1.cs" Line="32" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,7 +19,7 @@
     <Watch file="../../../../../../Projects/example/example/:example_2.cs" line="27" column="0" endLine="0" endColumn="0" offsetX="-1" offsetY="-1" expression="tulot" liveUpdate="False" />
     <Watch file="../../../../../Teht_4_1_arva_numero/Teht_4_1_arva_numero/Teht4_1.cs" line="20" column="12" endLine="20" endColumn="19" offsetX="-1" offsetY="-1" expression="Console" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.ItemProperties.Teht4__1__arva__luku__if__else__while PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

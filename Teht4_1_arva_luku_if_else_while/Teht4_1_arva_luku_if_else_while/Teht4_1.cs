@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Teht4_1_arva_luku_if_else_while
 {
