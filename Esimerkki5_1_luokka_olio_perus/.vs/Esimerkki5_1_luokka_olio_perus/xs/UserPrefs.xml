@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{86B1EE61-E2AF-4852-9C29-0845D0B24A8D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Esimerkki5__1__luokka__olio__perus PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki5_1_luokka_olio_perus/Esimerkki5-1.cs">
+    <Files>
+      <File FileName="Esimerkki5_1_luokka_olio_perus/Esimerkki5-1.cs" Line="116" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowVersionControlOverlays" value="False" />
+          <Node name="Esimerkki5_1_luokka_olio_perus" expanded="True">
+            <Node name="Esimerkki5_1_luokka_olio_perus" expanded="True">
+              <Node name="Esimerkki5-1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Esimerkki5_1_luokka_olio_perus" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Esimerkki6_4_set_get_property_kenta/1.0.0": {
+        "runtime": {
+          "Esimerkki6_4_set_get_property_kenta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esimerkki6_4_set_get_property_kenta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

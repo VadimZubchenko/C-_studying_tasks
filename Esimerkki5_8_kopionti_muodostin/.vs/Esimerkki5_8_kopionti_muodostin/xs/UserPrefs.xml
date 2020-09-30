@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{27E5A4BF-C72A-406C-B26A-3AF0F1B8C71D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Esimerkki5__8__kopionti__muodostin PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki5_8_kopionti_muodostin/Esimerkki5_8.cs">
+    <Files>
+      <File FileName="Esimerkki5_8_kopionti_muodostin/Esimerkki5_8.cs" Line="79" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowVersionControlOverlays" value="False" />
+          <Node name="Esimerkki5_8_kopionti_muodostin" expanded="True">
+            <Node name="Esimerkki5_8_kopionti_muodostin" expanded="True">
+              <Node name="Esimerkki5_8.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Esimerkki5_8_kopionti_muodostin" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

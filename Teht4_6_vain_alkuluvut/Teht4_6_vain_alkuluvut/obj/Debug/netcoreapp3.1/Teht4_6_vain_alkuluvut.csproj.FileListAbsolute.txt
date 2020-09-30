@@ -1,0 +1,11 @@
+/Users/vadimzubchenko/C#projects/Teht4_6_vain_alkuluvut/Teht4_6_vain_alkuluvut/bin/Debug/netcoreapp3.1/Teht4_6_vain_alkuluvut.deps.json
+/Users/vadimzubchenko/C#projects/Teht4_6_vain_alkuluvut/Teht4_6_vain_alkuluvut/bin/Debug/netcoreapp3.1/Teht4_6_vain_alkuluvut.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Teht4_6_vain_alkuluvut/Teht4_6_vain_alkuluvut/bin/Debug/netcoreapp3.1/Teht4_6_vain_alkuluvut.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Teht4_6_vain_alkuluvut/Teht4_6_vain_alkuluvut/bin/Debug/netcoreapp3.1/Teht4_6_vain_alkuluvut.dll
+/Users/vadimzubchenko/C#projects/Teht4_6_vain_alkuluvut/Teht4_6_vain_alkuluvut/bin/Debug/netcoreapp3.1/Teht4_6_vain_alkuluvut.pdb
+/Users/vadimzubchenko/C#projects/Teht4_6_vain_alkuluvut/Teht4_6_vain_alkuluvut/obj/Debug/netcoreapp3.1/Teht4_6_vain_alkuluvut.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Teht4_6_vain_alkuluvut/Teht4_6_vain_alkuluvut/obj/Debug/netcoreapp3.1/Teht4_6_vain_alkuluvut.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Teht4_6_vain_alkuluvut/Teht4_6_vain_alkuluvut/obj/Debug/netcoreapp3.1/Teht4_6_vain_alkuluvut.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Teht4_6_vain_alkuluvut/Teht4_6_vain_alkuluvut/obj/Debug/netcoreapp3.1/Teht4_6_vain_alkuluvut.dll
+/Users/vadimzubchenko/C#projects/Teht4_6_vain_alkuluvut/Teht4_6_vain_alkuluvut/obj/Debug/netcoreapp3.1/Teht4_6_vain_alkuluvut.pdb
+/Users/vadimzubchenko/C#projects/Teht4_6_vain_alkuluvut/Teht4_6_vain_alkuluvut/obj/Debug/netcoreapp3.1/Teht4_6_vain_alkuluvut.genruntimeconfig.cache

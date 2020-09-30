@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Esimerkki6_5_olio_has_a_otherOlio/1.0.0": {
+        "runtime": {
+          "Esimerkki6_5_olio_has_a_otherOlio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esimerkki6_5_olio_has_a_otherOlio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

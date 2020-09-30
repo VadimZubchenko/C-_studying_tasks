@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{294CACF5-165E-49BD-99A8-7A2A33D754B9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki10_8_binaryReader_Writer/Esimerkki10_8.cs">
+    <Files>
+      <File FileName="Esimerkki10_8_binaryReader_Writer/Esimerkki10_8.cs" Line="44" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki10_8_binaryReader_Writer" expanded="True">
+            <Node name="Esimerkki10_8_binaryReader_Writer" expanded="True">
+              <Node name="Esimerkki10_8.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Esimerkki10__8__binaryReader__Writer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

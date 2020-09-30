@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Esimerkki8_4_is_as_operaatorit/1.0.0": {
+        "runtime": {
+          "Esimerkki8_4_is_as_operaatorit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esimerkki8_4_is_as_operaatorit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

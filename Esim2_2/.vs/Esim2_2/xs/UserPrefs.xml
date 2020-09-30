@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C4184513-F366-4052-8460-D12B50B72CDF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esim2_2/Esimerkki2_2.cs">
+    <Files>
+      <File FileName="Esim2_2/Esimerkki2_2.cs" Line="72" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowVersionControlOverlays" value="False" />
+          <Node name="Esim2_2" expanded="True">
+            <Node name="Esim2_2" expanded="True">
+              <Node name="Esimerkki2_2.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Esim2__2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

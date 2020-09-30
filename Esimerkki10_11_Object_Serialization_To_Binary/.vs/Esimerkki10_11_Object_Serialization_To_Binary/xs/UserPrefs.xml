@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{EB9FBC56-97AE-49DD-9E3A-4643E8B6D121}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki10_11_Object_Serialization_To_Binary/Esimerkki10_11.cs">
+    <Files>
+      <File FileName="Esimerkki10_11_Object_Serialization_To_Binary/Esimerkki10_11.cs" Line="85" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki10_11_Object_Serialization_To_Binary" expanded="True">
+            <Node name="Esimerkki10_11_Object_Serialization_To_Binary" expanded="True">
+              <Node name="Esimerkki10_11.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Esimerkki10__11__Object__Serialization__To__Binary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

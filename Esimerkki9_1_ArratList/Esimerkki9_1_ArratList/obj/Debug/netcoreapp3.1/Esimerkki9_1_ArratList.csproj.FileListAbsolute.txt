@@ -1,0 +1,11 @@
+/Users/vadimzubchenko/C#projects/Esimerkki9_1_ArratList/Esimerkki9_1_ArratList/bin/Debug/netcoreapp3.1/Esimerkki9_1_ArratList.deps.json
+/Users/vadimzubchenko/C#projects/Esimerkki9_1_ArratList/Esimerkki9_1_ArratList/bin/Debug/netcoreapp3.1/Esimerkki9_1_ArratList.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Esimerkki9_1_ArratList/Esimerkki9_1_ArratList/bin/Debug/netcoreapp3.1/Esimerkki9_1_ArratList.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Esimerkki9_1_ArratList/Esimerkki9_1_ArratList/bin/Debug/netcoreapp3.1/Esimerkki9_1_ArratList.dll
+/Users/vadimzubchenko/C#projects/Esimerkki9_1_ArratList/Esimerkki9_1_ArratList/bin/Debug/netcoreapp3.1/Esimerkki9_1_ArratList.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki9_1_ArratList/Esimerkki9_1_ArratList/obj/Debug/netcoreapp3.1/Esimerkki9_1_ArratList.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki9_1_ArratList/Esimerkki9_1_ArratList/obj/Debug/netcoreapp3.1/Esimerkki9_1_ArratList.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki9_1_ArratList/Esimerkki9_1_ArratList/obj/Debug/netcoreapp3.1/Esimerkki9_1_ArratList.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Esimerkki9_1_ArratList/Esimerkki9_1_ArratList/obj/Debug/netcoreapp3.1/Esimerkki9_1_ArratList.dll
+/Users/vadimzubchenko/C#projects/Esimerkki9_1_ArratList/Esimerkki9_1_ArratList/obj/Debug/netcoreapp3.1/Esimerkki9_1_ArratList.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki9_1_ArratList/Esimerkki9_1_ArratList/obj/Debug/netcoreapp3.1/Esimerkki9_1_ArratList.genruntimeconfig.cache

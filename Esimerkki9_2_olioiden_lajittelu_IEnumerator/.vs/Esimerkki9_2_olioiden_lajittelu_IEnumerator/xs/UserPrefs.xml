@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6CA9E964-BB8B-4019-BBA6-2D8953632DDA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki9_2_olioiden_lajittelu_IEnumerator/Esimerkki9-2.cs">
+    <Files>
+      <File FileName="Esimerkki9_2_olioiden_lajittelu_IEnumerator/Esimerkki9-2.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki9_2_olioiden_lajittelu_IEnumerator" expanded="True">
+            <Node name="Esimerkki9_2_olioiden_lajittelu_IEnumerator" expanded="True">
+              <Node name="Esimerkki9-2.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Esimerkki9__2__olioiden__lajittelu__IEnumerator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

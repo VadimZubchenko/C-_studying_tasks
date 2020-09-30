@@ -1,0 +1,11 @@
+/Users/vadimzubchenko/C#projects/Esimerkki10_4_DirectoryInfo/Esimerkki10_4_DirectoryInfo/bin/Debug/netcoreapp3.1/Esimerkki10_4_DirectoryInfo.deps.json
+/Users/vadimzubchenko/C#projects/Esimerkki10_4_DirectoryInfo/Esimerkki10_4_DirectoryInfo/bin/Debug/netcoreapp3.1/Esimerkki10_4_DirectoryInfo.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Esimerkki10_4_DirectoryInfo/Esimerkki10_4_DirectoryInfo/bin/Debug/netcoreapp3.1/Esimerkki10_4_DirectoryInfo.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Esimerkki10_4_DirectoryInfo/Esimerkki10_4_DirectoryInfo/bin/Debug/netcoreapp3.1/Esimerkki10_4_DirectoryInfo.dll
+/Users/vadimzubchenko/C#projects/Esimerkki10_4_DirectoryInfo/Esimerkki10_4_DirectoryInfo/bin/Debug/netcoreapp3.1/Esimerkki10_4_DirectoryInfo.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki10_4_DirectoryInfo/Esimerkki10_4_DirectoryInfo/obj/Debug/netcoreapp3.1/Esimerkki10_4_DirectoryInfo.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki10_4_DirectoryInfo/Esimerkki10_4_DirectoryInfo/obj/Debug/netcoreapp3.1/Esimerkki10_4_DirectoryInfo.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki10_4_DirectoryInfo/Esimerkki10_4_DirectoryInfo/obj/Debug/netcoreapp3.1/Esimerkki10_4_DirectoryInfo.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Esimerkki10_4_DirectoryInfo/Esimerkki10_4_DirectoryInfo/obj/Debug/netcoreapp3.1/Esimerkki10_4_DirectoryInfo.dll
+/Users/vadimzubchenko/C#projects/Esimerkki10_4_DirectoryInfo/Esimerkki10_4_DirectoryInfo/obj/Debug/netcoreapp3.1/Esimerkki10_4_DirectoryInfo.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki10_4_DirectoryInfo/Esimerkki10_4_DirectoryInfo/obj/Debug/netcoreapp3.1/Esimerkki10_4_DirectoryInfo.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/vadimzubchenko/C#projects/Esimerkki9_7_Jono/Esimerkki9_7_Jono/bin/Debug/netcoreapp3.1/Esimerkki9_7_Jono.deps.json
+/Users/vadimzubchenko/C#projects/Esimerkki9_7_Jono/Esimerkki9_7_Jono/bin/Debug/netcoreapp3.1/Esimerkki9_7_Jono.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Esimerkki9_7_Jono/Esimerkki9_7_Jono/bin/Debug/netcoreapp3.1/Esimerkki9_7_Jono.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Esimerkki9_7_Jono/Esimerkki9_7_Jono/bin/Debug/netcoreapp3.1/Esimerkki9_7_Jono.dll
+/Users/vadimzubchenko/C#projects/Esimerkki9_7_Jono/Esimerkki9_7_Jono/bin/Debug/netcoreapp3.1/Esimerkki9_7_Jono.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki9_7_Jono/Esimerkki9_7_Jono/obj/Debug/netcoreapp3.1/Esimerkki9_7_Jono.csprojAssemblyReference.cache
+/Users/vadimzubchenko/C#projects/Esimerkki9_7_Jono/Esimerkki9_7_Jono/obj/Debug/netcoreapp3.1/Esimerkki9_7_Jono.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki9_7_Jono/Esimerkki9_7_Jono/obj/Debug/netcoreapp3.1/Esimerkki9_7_Jono.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki9_7_Jono/Esimerkki9_7_Jono/obj/Debug/netcoreapp3.1/Esimerkki9_7_Jono.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Esimerkki9_7_Jono/Esimerkki9_7_Jono/obj/Debug/netcoreapp3.1/Esimerkki9_7_Jono.dll
+/Users/vadimzubchenko/C#projects/Esimerkki9_7_Jono/Esimerkki9_7_Jono/obj/Debug/netcoreapp3.1/Esimerkki9_7_Jono.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki9_7_Jono/Esimerkki9_7_Jono/obj/Debug/netcoreapp3.1/Esimerkki9_7_Jono.genruntimeconfig.cache

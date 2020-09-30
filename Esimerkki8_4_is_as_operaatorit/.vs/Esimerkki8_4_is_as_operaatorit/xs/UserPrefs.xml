@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3C8F3FEC-CA07-4E88-B936-6622386BD63A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki8_4_is_as_operaatorit/Esimerkki8-4.cs">
+    <Files>
+      <File FileName="Esimerkki8_4_is_as_operaatorit/Esimerkki8-4.cs" Line="93" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki8_4_is_as_operaatorit" expanded="True">
+            <Node name="Esimerkki8_4_is_as_operaatorit" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Esimerkki8_4_is_as_operaatorit" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Esimerkki8__4__is__as__operaatorit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tehtava10_3_Serialization_Object/1.0.0": {
+        "runtime": {
+          "Tehtava10_3_Serialization_Object.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tehtava10_3_Serialization_Object/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

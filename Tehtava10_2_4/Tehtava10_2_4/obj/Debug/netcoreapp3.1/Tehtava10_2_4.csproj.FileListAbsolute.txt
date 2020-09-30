@@ -1,0 +1,12 @@
+/Users/vadimzubchenko/C#projects/Tehtava10_2_4/Tehtava10_2_4/bin/Debug/netcoreapp3.1/Tehtava10_2_4.deps.json
+/Users/vadimzubchenko/C#projects/Tehtava10_2_4/Tehtava10_2_4/bin/Debug/netcoreapp3.1/Tehtava10_2_4.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Tehtava10_2_4/Tehtava10_2_4/bin/Debug/netcoreapp3.1/Tehtava10_2_4.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Tehtava10_2_4/Tehtava10_2_4/bin/Debug/netcoreapp3.1/Tehtava10_2_4.dll
+/Users/vadimzubchenko/C#projects/Tehtava10_2_4/Tehtava10_2_4/bin/Debug/netcoreapp3.1/Tehtava10_2_4.pdb
+/Users/vadimzubchenko/C#projects/Tehtava10_2_4/Tehtava10_2_4/obj/Debug/netcoreapp3.1/Tehtava10_2_4.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Tehtava10_2_4/Tehtava10_2_4/obj/Debug/netcoreapp3.1/Tehtava10_2_4.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Tehtava10_2_4/Tehtava10_2_4/obj/Debug/netcoreapp3.1/Tehtava10_2_4.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Tehtava10_2_4/Tehtava10_2_4/obj/Debug/netcoreapp3.1/Tehtava10_2_4.dll
+/Users/vadimzubchenko/C#projects/Tehtava10_2_4/Tehtava10_2_4/obj/Debug/netcoreapp3.1/Tehtava10_2_4.pdb
+/Users/vadimzubchenko/C#projects/Tehtava10_2_4/Tehtava10_2_4/obj/Debug/netcoreapp3.1/Tehtava10_2_4.genruntimeconfig.cache
+/Users/vadimzubchenko/C#projects/Tehtava10_2_4/Tehtava10_2_4/obj/Debug/netcoreapp3.1/Tehtava10_2_4.csprojAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{050B4CB4-8CE6-43A8-BD0B-9A5782BC82CA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki10_7_BUFFEREDSTREAM/Esimerkki10_7.cs">
+    <Files>
+      <File FileName="Esimerkki10_7_BUFFEREDSTREAM/Esimerkki10_7.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki10_7_BUFFEREDSTREAM" expanded="True">
+            <Node name="Esimerkki10_7_BUFFEREDSTREAM" expanded="True">
+              <Node name="Esimerkki10_7.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Esimerkki10__7__BUFFEREDSTREAM PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B89AE67F-6614-4C59-8269-E887ECB753C9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki9_3_nimi_palkka_id_lajittelu_ArrayList/Program.cs">
+    <Files>
+      <File FileName="Esimerkki9_3_nimi_palkka_id_lajittelu_ArrayList/Program.cs" Line="10" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki9_3_nimi_palkka_id_lajittelu_ArrayList" expanded="True">
+            <Node name="Esimerkki9_3_nimi_palkka_id_lajittelu_ArrayList" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Esimerkki9__3__nimi__palkka__id__lajittelu__ArrayList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

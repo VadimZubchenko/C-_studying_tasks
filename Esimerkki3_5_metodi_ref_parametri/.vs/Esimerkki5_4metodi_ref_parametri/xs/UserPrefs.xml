@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{FFCE1F32-61E2-486E-A795-42A3E208059F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Esimerkki5__4metodi__ref__parametri PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki3_5_metodi_ref_parametri/Esimerkki5_4.cs">
+    <Files>
+      <File FileName="Esimerkki3_5_metodi_ref_parametri/Esimerkki5_4.cs" Line="52" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowVersionControlOverlays" value="False" />
+          <Node name="Esimerkki5_4metodi_ref_parametri" expanded="True">
+            <Node name="Esimerkki5_4metodi_ref_parametri" expanded="True">
+              <Node name="Esimerkki5_4.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Esimerkki5_4metodi_ref_parametri" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

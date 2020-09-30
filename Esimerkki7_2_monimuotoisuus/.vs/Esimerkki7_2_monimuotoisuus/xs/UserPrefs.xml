@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{DA2A9B4E-C95A-46EE-950B-B0B1D1567C85}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki7_2_monimuotoisuus/Esimerkki7-2.cs">
+    <Files>
+      <File FileName="Esimerkki7_2_monimuotoisuus/Esimerkki7-2.cs" Line="136" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki7_2_monimuotoisuus" expanded="True" selected="True">
+            <Node name="Esimerkki7_2_monimuotoisuus" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Esimerkki7__2__monimuotoisuus PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

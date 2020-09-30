@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{3E5F061F-2EF2-4648-AFD7-3F34DCBE830B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki5_5_metodi_paluuarvo_out/Esimerkki5_5.cs">
+    <Files>
+      <File FileName="Esimerkki5_5_metodi_paluuarvo_out/Esimerkki5_5.cs" Line="38" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowVersionControlOverlays" value="False" />
+          <Node name="Esimerkki5_5_metodi_paluuarvo_out" expanded="True">
+            <Node name="Esimerkki5_5_metodi_paluuarvo_out" expanded="True">
+              <Node name="Esimerkki5_5.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Esimerkki5_5_metodi_paluuarvo_out" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Esimerkki5__5__metodi__paluuarvo__out PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

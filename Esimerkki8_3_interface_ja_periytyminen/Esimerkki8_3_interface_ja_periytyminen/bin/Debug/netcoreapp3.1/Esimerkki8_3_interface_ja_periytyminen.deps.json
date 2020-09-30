@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Esimerkki8_3_interface_ja_periytyminen/1.0.0": {
+        "runtime": {
+          "Esimerkki8_3_interface_ja_periytyminen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esimerkki8_3_interface_ja_periytyminen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

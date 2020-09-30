@@ -1,0 +1,12 @@
+/Users/vadimzubchenko/C#projects/Esimerkki8_2_Interface/Esimerkki8_2_Interface/bin/Debug/netcoreapp3.1/Esimerkki8_2_Interface.deps.json
+/Users/vadimzubchenko/C#projects/Esimerkki8_2_Interface/Esimerkki8_2_Interface/bin/Debug/netcoreapp3.1/Esimerkki8_2_Interface.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Esimerkki8_2_Interface/Esimerkki8_2_Interface/bin/Debug/netcoreapp3.1/Esimerkki8_2_Interface.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Esimerkki8_2_Interface/Esimerkki8_2_Interface/bin/Debug/netcoreapp3.1/Esimerkki8_2_Interface.dll
+/Users/vadimzubchenko/C#projects/Esimerkki8_2_Interface/Esimerkki8_2_Interface/bin/Debug/netcoreapp3.1/Esimerkki8_2_Interface.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki8_2_Interface/Esimerkki8_2_Interface/obj/Debug/netcoreapp3.1/Esimerkki8_2_Interface.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki8_2_Interface/Esimerkki8_2_Interface/obj/Debug/netcoreapp3.1/Esimerkki8_2_Interface.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki8_2_Interface/Esimerkki8_2_Interface/obj/Debug/netcoreapp3.1/Esimerkki8_2_Interface.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Esimerkki8_2_Interface/Esimerkki8_2_Interface/obj/Debug/netcoreapp3.1/Esimerkki8_2_Interface.dll
+/Users/vadimzubchenko/C#projects/Esimerkki8_2_Interface/Esimerkki8_2_Interface/obj/Debug/netcoreapp3.1/Esimerkki8_2_Interface.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki8_2_Interface/Esimerkki8_2_Interface/obj/Debug/netcoreapp3.1/Esimerkki8_2_Interface.genruntimeconfig.cache
+/Users/vadimzubchenko/C#projects/Esimerkki8_2_Interface/Esimerkki8_2_Interface/obj/Debug/netcoreapp3.1/Esimerkki8_2_Interface.csprojAssemblyReference.cache

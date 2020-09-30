@@ -1,0 +1,3 @@
+/Users/vadimzubchenko/C#projects/Tyontekija_interface/Tyontekija_interface/bin/Release/Tyontekija_interface.exe
+/Users/vadimzubchenko/C#projects/Tyontekija_interface/Tyontekija_interface/obj/Release/Tyontekija_interface.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Tyontekija_interface/Tyontekija_interface/obj/Release/Tyontekija_interface.exe

@@ -1,0 +1,11 @@
+/Users/vadimzubchenko/C#projects/Esimerkki6_7_nimiavaruus/Esimerkki6_7_nimiavaruus/bin/Debug/netcoreapp3.1/Esimerkki6_7_nimiavaruus.deps.json
+/Users/vadimzubchenko/C#projects/Esimerkki6_7_nimiavaruus/Esimerkki6_7_nimiavaruus/bin/Debug/netcoreapp3.1/Esimerkki6_7_nimiavaruus.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Esimerkki6_7_nimiavaruus/Esimerkki6_7_nimiavaruus/bin/Debug/netcoreapp3.1/Esimerkki6_7_nimiavaruus.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Esimerkki6_7_nimiavaruus/Esimerkki6_7_nimiavaruus/bin/Debug/netcoreapp3.1/Esimerkki6_7_nimiavaruus.dll
+/Users/vadimzubchenko/C#projects/Esimerkki6_7_nimiavaruus/Esimerkki6_7_nimiavaruus/bin/Debug/netcoreapp3.1/Esimerkki6_7_nimiavaruus.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki6_7_nimiavaruus/Esimerkki6_7_nimiavaruus/obj/Debug/netcoreapp3.1/Esimerkki6_7_nimiavaruus.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki6_7_nimiavaruus/Esimerkki6_7_nimiavaruus/obj/Debug/netcoreapp3.1/Esimerkki6_7_nimiavaruus.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki6_7_nimiavaruus/Esimerkki6_7_nimiavaruus/obj/Debug/netcoreapp3.1/Esimerkki6_7_nimiavaruus.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Esimerkki6_7_nimiavaruus/Esimerkki6_7_nimiavaruus/obj/Debug/netcoreapp3.1/Esimerkki6_7_nimiavaruus.dll
+/Users/vadimzubchenko/C#projects/Esimerkki6_7_nimiavaruus/Esimerkki6_7_nimiavaruus/obj/Debug/netcoreapp3.1/Esimerkki6_7_nimiavaruus.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki6_7_nimiavaruus/Esimerkki6_7_nimiavaruus/obj/Debug/netcoreapp3.1/Esimerkki6_7_nimiavaruus.genruntimeconfig.cache

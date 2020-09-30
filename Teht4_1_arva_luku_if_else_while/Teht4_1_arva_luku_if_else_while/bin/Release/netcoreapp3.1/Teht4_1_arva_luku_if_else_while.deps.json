@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Teht4_1_arva_luku_if_else_while/1.0.0": {
+        "runtime": {
+          "Teht4_1_arva_luku_if_else_while.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Teht4_1_arva_luku_if_else_while/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

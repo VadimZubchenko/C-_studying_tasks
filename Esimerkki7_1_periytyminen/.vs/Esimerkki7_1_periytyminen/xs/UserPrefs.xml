@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C01E22B7-F4D0-44D7-A0BF-DC552F40338A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Esimerkki7__1__periytyminen PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki7_1_periytyminen/Esimerkki7-1.cs">
+    <Files>
+      <File FileName="Esimerkki7_1_periytyminen/Esimerkki7-1.cs" Line="60" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki7_1_periytyminen" expanded="True">
+            <Node name="Esimerkki7_1_periytyminen" expanded="True">
+              <Node name="Esimerkki7-1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

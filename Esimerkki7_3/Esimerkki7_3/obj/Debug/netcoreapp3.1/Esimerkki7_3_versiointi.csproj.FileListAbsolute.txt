@@ -1,0 +1,12 @@
+/Users/vadimzubchenko/C#projects/Esimerkki7_3/Esimerkki7_3/bin/Debug/netcoreapp3.1/Esimerkki7_3_versiointi.deps.json
+/Users/vadimzubchenko/C#projects/Esimerkki7_3/Esimerkki7_3/bin/Debug/netcoreapp3.1/Esimerkki7_3_versiointi.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Esimerkki7_3/Esimerkki7_3/bin/Debug/netcoreapp3.1/Esimerkki7_3_versiointi.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Esimerkki7_3/Esimerkki7_3/bin/Debug/netcoreapp3.1/Esimerkki7_3_versiointi.dll
+/Users/vadimzubchenko/C#projects/Esimerkki7_3/Esimerkki7_3/bin/Debug/netcoreapp3.1/Esimerkki7_3_versiointi.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki7_3/Esimerkki7_3/obj/Debug/netcoreapp3.1/Esimerkki7_3_versiointi.csprojAssemblyReference.cache
+/Users/vadimzubchenko/C#projects/Esimerkki7_3/Esimerkki7_3/obj/Debug/netcoreapp3.1/Esimerkki7_3_versiointi.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki7_3/Esimerkki7_3/obj/Debug/netcoreapp3.1/Esimerkki7_3_versiointi.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki7_3/Esimerkki7_3/obj/Debug/netcoreapp3.1/Esimerkki7_3_versiointi.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Esimerkki7_3/Esimerkki7_3/obj/Debug/netcoreapp3.1/Esimerkki7_3_versiointi.dll
+/Users/vadimzubchenko/C#projects/Esimerkki7_3/Esimerkki7_3/obj/Debug/netcoreapp3.1/Esimerkki7_3_versiointi.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki7_3/Esimerkki7_3/obj/Debug/netcoreapp3.1/Esimerkki7_3_versiointi.genruntimeconfig.cache

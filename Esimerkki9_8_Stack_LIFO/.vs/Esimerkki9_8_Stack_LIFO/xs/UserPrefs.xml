@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{2E479489-CE8B-43A2-B083-926D0E254980}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki9_8_Stack_LIFO/Esimerkki9-8.cs">
+    <Files>
+      <File FileName="Esimerkki9_8_Stack_LIFO/Esimerkki9-8.cs" Line="78" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki9_8_Stack_LIFO" expanded="True">
+            <Node name="Esimerkki9_8_Stack_LIFO" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Esimerkki9__8__Stack__LIFO PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

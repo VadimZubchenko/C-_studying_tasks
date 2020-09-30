@@ -1,0 +1,11 @@
+/Users/vadimzubchenko/C#projects/Esimerkki10_2_FileInfo/Esimerkki10_2_FileInfo/bin/Debug/netcoreapp3.1/Esimerkki10_2_FileInfo.deps.json
+/Users/vadimzubchenko/C#projects/Esimerkki10_2_FileInfo/Esimerkki10_2_FileInfo/bin/Debug/netcoreapp3.1/Esimerkki10_2_FileInfo.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Esimerkki10_2_FileInfo/Esimerkki10_2_FileInfo/bin/Debug/netcoreapp3.1/Esimerkki10_2_FileInfo.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Esimerkki10_2_FileInfo/Esimerkki10_2_FileInfo/bin/Debug/netcoreapp3.1/Esimerkki10_2_FileInfo.dll
+/Users/vadimzubchenko/C#projects/Esimerkki10_2_FileInfo/Esimerkki10_2_FileInfo/bin/Debug/netcoreapp3.1/Esimerkki10_2_FileInfo.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki10_2_FileInfo/Esimerkki10_2_FileInfo/obj/Debug/netcoreapp3.1/Esimerkki10_2_FileInfo.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki10_2_FileInfo/Esimerkki10_2_FileInfo/obj/Debug/netcoreapp3.1/Esimerkki10_2_FileInfo.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki10_2_FileInfo/Esimerkki10_2_FileInfo/obj/Debug/netcoreapp3.1/Esimerkki10_2_FileInfo.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Esimerkki10_2_FileInfo/Esimerkki10_2_FileInfo/obj/Debug/netcoreapp3.1/Esimerkki10_2_FileInfo.dll
+/Users/vadimzubchenko/C#projects/Esimerkki10_2_FileInfo/Esimerkki10_2_FileInfo/obj/Debug/netcoreapp3.1/Esimerkki10_2_FileInfo.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki10_2_FileInfo/Esimerkki10_2_FileInfo/obj/Debug/netcoreapp3.1/Esimerkki10_2_FileInfo.genruntimeconfig.cache

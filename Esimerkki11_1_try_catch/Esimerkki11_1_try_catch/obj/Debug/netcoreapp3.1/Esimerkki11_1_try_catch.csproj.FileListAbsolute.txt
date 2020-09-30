@@ -1,0 +1,12 @@
+/Users/vadimzubchenko/C#projects/Esimerkki11_1_try_catch/Esimerkki11_1_try_catch/bin/Debug/netcoreapp3.1/Esimerkki11_1_try_catch.deps.json
+/Users/vadimzubchenko/C#projects/Esimerkki11_1_try_catch/Esimerkki11_1_try_catch/bin/Debug/netcoreapp3.1/Esimerkki11_1_try_catch.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Esimerkki11_1_try_catch/Esimerkki11_1_try_catch/bin/Debug/netcoreapp3.1/Esimerkki11_1_try_catch.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Esimerkki11_1_try_catch/Esimerkki11_1_try_catch/bin/Debug/netcoreapp3.1/Esimerkki11_1_try_catch.dll
+/Users/vadimzubchenko/C#projects/Esimerkki11_1_try_catch/Esimerkki11_1_try_catch/bin/Debug/netcoreapp3.1/Esimerkki11_1_try_catch.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki11_1_try_catch/Esimerkki11_1_try_catch/obj/Debug/netcoreapp3.1/Esimerkki11_1_try_catch.csprojAssemblyReference.cache
+/Users/vadimzubchenko/C#projects/Esimerkki11_1_try_catch/Esimerkki11_1_try_catch/obj/Debug/netcoreapp3.1/Esimerkki11_1_try_catch.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki11_1_try_catch/Esimerkki11_1_try_catch/obj/Debug/netcoreapp3.1/Esimerkki11_1_try_catch.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Esimerkki11_1_try_catch/Esimerkki11_1_try_catch/obj/Debug/netcoreapp3.1/Esimerkki11_1_try_catch.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki11_1_try_catch/Esimerkki11_1_try_catch/obj/Debug/netcoreapp3.1/Esimerkki11_1_try_catch.dll
+/Users/vadimzubchenko/C#projects/Esimerkki11_1_try_catch/Esimerkki11_1_try_catch/obj/Debug/netcoreapp3.1/Esimerkki11_1_try_catch.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki11_1_try_catch/Esimerkki11_1_try_catch/obj/Debug/netcoreapp3.1/Esimerkki11_1_try_catch.genruntimeconfig.cache

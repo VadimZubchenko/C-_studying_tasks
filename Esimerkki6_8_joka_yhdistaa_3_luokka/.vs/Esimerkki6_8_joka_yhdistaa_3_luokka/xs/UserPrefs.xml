@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1F5A32BD-B8C0-470F-8B7D-4B34A671C5F5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki6_8_joka_yhdistaa_3_luokka/Esimerkki6-8-1.cs">
+    <Files>
+      <File FileName="Esimerkki6_8_joka_yhdistaa_3_luokka/Esimerkki6-8-1.cs" Line="16" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki6_8_joka_yhdistaa_3_luokka" expanded="True">
+            <Node name="Esimerkki6_8_joka_yhdistaa_3_luokka" expanded="True">
+              <Node name="Esimerkki6-8-1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Esimerkki6__8__joka__yhdistaa__3__luokka PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

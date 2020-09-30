@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{94A814EB-D9CE-4BF6-AA8C-20901DEA4CCC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki7_6_Olio_tyyppimuunnos/Esimerkki7-6.cs">
+    <Files>
+      <File FileName="Esimerkki7_6_Olio_tyyppimuunnos/Esimerkki7-6.cs" Line="112" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki7_6_Olio_tyyppimuunnos" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Esimerkki7__6__Olio__tyyppimuunnos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{ACA4C2A5-AE84-4ADB-AD56-76DB11ED2148}|Default">
+  <MonoDevelop.Ide.ItemProperties.Esimerkki9__6__SortedList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki9_6_SortedList/Esimerkki9-6.cs">
+    <Files>
+      <File FileName="Esimerkki9_6_SortedList/Esimerkki9-6.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki9_6_SortedList" expanded="True">
+            <Node name="Esimerkki9_6_SortedList" expanded="True">
+              <Node name="Esimerkki9-6.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

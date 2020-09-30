@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{999A5338-4A3C-480C-BE5C-60FC6499449D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki10_9_STREAMREADER_STREAMWRITER/Esimerkki10_9.cs">
+    <Files>
+      <File FileName="Esimerkki10_9_STREAMREADER_STREAMWRITER/Esimerkki10_9.cs" Line="43" Column="1" />
+      <File FileName="../Esimerkki10_8_binaryReader_Writer/Esimerkki10_8_binaryReader_Writer/Esimerkki10_8.cs" Line="54" Column="10" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki10_9_STREAMREADER_STREAMWRITER" expanded="True">
+            <Node name="Esimerkki10_9_STREAMREADER_STREAMWRITER" expanded="True">
+              <Node name="Esimerkki10_9.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Esimerkki10__9__STREAMREADER__STREAMWRITER PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

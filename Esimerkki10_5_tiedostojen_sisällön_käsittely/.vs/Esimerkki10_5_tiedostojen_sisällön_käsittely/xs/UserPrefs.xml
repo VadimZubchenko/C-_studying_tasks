@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D7CC59B9-12F2-49B1-B8DF-DFD23E9FE1BF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki10_5_tiedostojen_sisällön_käsittely/Esimerkki10_5.cs">
+    <Files>
+      <File FileName="Esimerkki10_5_tiedostojen_sisällön_käsittely/Esimerkki10_5.cs" Line="26" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki10_5_tiedostojen_sisällön_käsittely" expanded="True">
+            <Node name="Esimerkki10_5_tiedostojen_sisällön_käsittely" expanded="True">
+              <Node name="Esimerkki10_5.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Esimerkki10__5__tiedostojen__sisällön__käsittely PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

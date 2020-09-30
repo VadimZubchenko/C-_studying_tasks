@@ -1,0 +1,11 @@
+/Users/vadimzubchenko/C#projects/Esimerkki4_2/Esimerkki4_2/bin/Debug/netcoreapp3.1/Esimerkki4_2.deps.json
+/Users/vadimzubchenko/C#projects/Esimerkki4_2/Esimerkki4_2/bin/Debug/netcoreapp3.1/Esimerkki4_2.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Esimerkki4_2/Esimerkki4_2/bin/Debug/netcoreapp3.1/Esimerkki4_2.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Esimerkki4_2/Esimerkki4_2/bin/Debug/netcoreapp3.1/Esimerkki4_2.dll
+/Users/vadimzubchenko/C#projects/Esimerkki4_2/Esimerkki4_2/bin/Debug/netcoreapp3.1/Esimerkki4_2.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki4_2/Esimerkki4_2/obj/Debug/netcoreapp3.1/Esimerkki4_2.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki4_2/Esimerkki4_2/obj/Debug/netcoreapp3.1/Esimerkki4_2.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki4_2/Esimerkki4_2/obj/Debug/netcoreapp3.1/Esimerkki4_2.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Esimerkki4_2/Esimerkki4_2/obj/Debug/netcoreapp3.1/Esimerkki4_2.dll
+/Users/vadimzubchenko/C#projects/Esimerkki4_2/Esimerkki4_2/obj/Debug/netcoreapp3.1/Esimerkki4_2.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki4_2/Esimerkki4_2/obj/Debug/netcoreapp3.1/Esimerkki4_2.genruntimeconfig.cache

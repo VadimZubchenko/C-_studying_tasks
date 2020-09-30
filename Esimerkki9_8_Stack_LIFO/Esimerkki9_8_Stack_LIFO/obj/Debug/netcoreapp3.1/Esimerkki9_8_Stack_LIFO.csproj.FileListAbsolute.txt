@@ -1,0 +1,12 @@
+/Users/vadimzubchenko/C#projects/Esimerkki9_8_Stack_LIFO/Esimerkki9_8_Stack_LIFO/bin/Debug/netcoreapp3.1/Esimerkki9_8_Stack_LIFO.deps.json
+/Users/vadimzubchenko/C#projects/Esimerkki9_8_Stack_LIFO/Esimerkki9_8_Stack_LIFO/bin/Debug/netcoreapp3.1/Esimerkki9_8_Stack_LIFO.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Esimerkki9_8_Stack_LIFO/Esimerkki9_8_Stack_LIFO/bin/Debug/netcoreapp3.1/Esimerkki9_8_Stack_LIFO.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Esimerkki9_8_Stack_LIFO/Esimerkki9_8_Stack_LIFO/bin/Debug/netcoreapp3.1/Esimerkki9_8_Stack_LIFO.dll
+/Users/vadimzubchenko/C#projects/Esimerkki9_8_Stack_LIFO/Esimerkki9_8_Stack_LIFO/bin/Debug/netcoreapp3.1/Esimerkki9_8_Stack_LIFO.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki9_8_Stack_LIFO/Esimerkki9_8_Stack_LIFO/obj/Debug/netcoreapp3.1/Esimerkki9_8_Stack_LIFO.csprojAssemblyReference.cache
+/Users/vadimzubchenko/C#projects/Esimerkki9_8_Stack_LIFO/Esimerkki9_8_Stack_LIFO/obj/Debug/netcoreapp3.1/Esimerkki9_8_Stack_LIFO.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki9_8_Stack_LIFO/Esimerkki9_8_Stack_LIFO/obj/Debug/netcoreapp3.1/Esimerkki9_8_Stack_LIFO.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki9_8_Stack_LIFO/Esimerkki9_8_Stack_LIFO/obj/Debug/netcoreapp3.1/Esimerkki9_8_Stack_LIFO.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Esimerkki9_8_Stack_LIFO/Esimerkki9_8_Stack_LIFO/obj/Debug/netcoreapp3.1/Esimerkki9_8_Stack_LIFO.dll
+/Users/vadimzubchenko/C#projects/Esimerkki9_8_Stack_LIFO/Esimerkki9_8_Stack_LIFO/obj/Debug/netcoreapp3.1/Esimerkki9_8_Stack_LIFO.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki9_8_Stack_LIFO/Esimerkki9_8_Stack_LIFO/obj/Debug/netcoreapp3.1/Esimerkki9_8_Stack_LIFO.genruntimeconfig.cache

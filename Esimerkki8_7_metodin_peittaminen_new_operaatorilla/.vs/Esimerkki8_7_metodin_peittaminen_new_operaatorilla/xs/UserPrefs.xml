@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{BF9CD0C3-264B-4E1E-9556-F417D2E8E6A1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Esimerkki8__7__metodin__peittaminen__new__operaatorilla PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki8_7_metodin_peittaminen_new_operaatorilla/Esimerkki8-7.cs">
+    <Files>
+      <File FileName="Esimerkki8_7_metodin_peittaminen_new_operaatorilla/Esimerkki8-7.cs" Line="65" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki8_7_metodin_peittaminen_new_operaatorilla" expanded="True">
+            <Node name="Esimerkki8_7_metodin_peittaminen_new_operaatorilla" expanded="True">
+              <Node name="Esimerkki8-7.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Esimerkki8_7_metodin_peittaminen_new_operaatorilla" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

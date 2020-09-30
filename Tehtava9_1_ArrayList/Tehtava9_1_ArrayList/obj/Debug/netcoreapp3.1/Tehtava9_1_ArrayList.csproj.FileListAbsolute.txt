@@ -1,0 +1,11 @@
+/Users/vadimzubchenko/C#projects/Tehtava9_1_ArrayList/Tehtava9_1_ArrayList/bin/Debug/netcoreapp3.1/Tehtava9_1_ArrayList.deps.json
+/Users/vadimzubchenko/C#projects/Tehtava9_1_ArrayList/Tehtava9_1_ArrayList/bin/Debug/netcoreapp3.1/Tehtava9_1_ArrayList.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Tehtava9_1_ArrayList/Tehtava9_1_ArrayList/bin/Debug/netcoreapp3.1/Tehtava9_1_ArrayList.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Tehtava9_1_ArrayList/Tehtava9_1_ArrayList/bin/Debug/netcoreapp3.1/Tehtava9_1_ArrayList.dll
+/Users/vadimzubchenko/C#projects/Tehtava9_1_ArrayList/Tehtava9_1_ArrayList/bin/Debug/netcoreapp3.1/Tehtava9_1_ArrayList.pdb
+/Users/vadimzubchenko/C#projects/Tehtava9_1_ArrayList/Tehtava9_1_ArrayList/obj/Debug/netcoreapp3.1/Tehtava9_1_ArrayList.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Tehtava9_1_ArrayList/Tehtava9_1_ArrayList/obj/Debug/netcoreapp3.1/Tehtava9_1_ArrayList.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Tehtava9_1_ArrayList/Tehtava9_1_ArrayList/obj/Debug/netcoreapp3.1/Tehtava9_1_ArrayList.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Tehtava9_1_ArrayList/Tehtava9_1_ArrayList/obj/Debug/netcoreapp3.1/Tehtava9_1_ArrayList.dll
+/Users/vadimzubchenko/C#projects/Tehtava9_1_ArrayList/Tehtava9_1_ArrayList/obj/Debug/netcoreapp3.1/Tehtava9_1_ArrayList.pdb
+/Users/vadimzubchenko/C#projects/Tehtava9_1_ArrayList/Tehtava9_1_ArrayList/obj/Debug/netcoreapp3.1/Tehtava9_1_ArrayList.genruntimeconfig.cache

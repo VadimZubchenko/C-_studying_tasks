@@ -1,0 +1,3 @@
+/Users/vadimzubchenko/C#projects/Tyyppimuunnokset/Tyyppimuunnokset/bin/Release/Tyyppimuunnokset.exe
+/Users/vadimzubchenko/C#projects/Tyyppimuunnokset/Tyyppimuunnokset/obj/Release/Tyyppimuunnokset.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Tyyppimuunnokset/Tyyppimuunnokset/obj/Release/Tyyppimuunnokset.exe

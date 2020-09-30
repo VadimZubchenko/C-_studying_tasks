@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{3C29E5BC-8F88-4B74-B91C-6C573BB810DC}|Default">
+  <MonoDevelop.Ide.ItemProperties.Esimerkki8__2__Interface PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki8_2_Interface/Esimerkki8-2.cs">
+    <Files>
+      <File FileName="Esimerkki8_2_Interface/Esimerkki8-2.cs" Line="29" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki8_2_Interface" expanded="True">
+            <Node name="Esimerkki8_2_Interface" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Esimerkki8-2.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Esimerkki8_2_Interface" expanded="True">
+            <Node name="Esimerkki8_2_Interface" expanded="True">
+              <Node name="Esimerkki8_2" expanded="True" />
+              <Node name="IAlustus" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

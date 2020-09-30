@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{342FA08E-C23E-4BB6-9549-EFB51CBF56B5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Esimerkki9__4__hajautustaulu__enumerator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki9_4_hajautustaulu_enumerator/Esimerkki9-4.cs">
+    <Files>
+      <File FileName="Esimerkki9_4_hajautustaulu_enumerator/Esimerkki9-4.cs" Line="10" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki9_4_hajautustaulu_enumerator" expanded="True">
+            <Node name="Esimerkki9_4_hajautustaulu_enumerator" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

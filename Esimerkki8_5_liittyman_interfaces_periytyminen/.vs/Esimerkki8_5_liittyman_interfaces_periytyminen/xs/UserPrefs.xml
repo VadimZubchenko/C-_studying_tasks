@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3313C4CC-9F51-4368-BE8F-C19E44E77C79}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki8_5_liittyman_interfaces_periytyminen/Esimerkki8-5.cs">
+    <Files>
+      <File FileName="Esimerkki8_5_liittyman_interfaces_periytyminen/Esimerkki8-5.cs" Line="97" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki8_5_liittyman_interfaces_periytyminen" expanded="True">
+            <Node name="Esimerkki8_5_liittyman_interfaces_periytyminen" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Esimerkki8_5_liittyman_interfaces_periytyminen" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Esimerkki8__5__liittyman__interfaces__periytyminen PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

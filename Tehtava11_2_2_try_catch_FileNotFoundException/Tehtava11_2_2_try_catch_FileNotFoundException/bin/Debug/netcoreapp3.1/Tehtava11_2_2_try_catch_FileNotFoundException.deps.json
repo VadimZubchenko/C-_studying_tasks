@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tehtava11_2_2_try_catch_FileNotFoundException/1.0.0": {
+        "runtime": {
+          "Tehtava11_2_2_try_catch_FileNotFoundException.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tehtava11_2_2_try_catch_FileNotFoundException/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

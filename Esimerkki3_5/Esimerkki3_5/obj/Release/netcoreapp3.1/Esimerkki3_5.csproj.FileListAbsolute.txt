@@ -1,0 +1,11 @@
+/Users/vadimzubchenko/C#projects/Esimerkki3_5/Esimerkki3_5/bin/Release/netcoreapp3.1/Esimerkki3_5.deps.json
+/Users/vadimzubchenko/C#projects/Esimerkki3_5/Esimerkki3_5/bin/Release/netcoreapp3.1/Esimerkki3_5.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Esimerkki3_5/Esimerkki3_5/bin/Release/netcoreapp3.1/Esimerkki3_5.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Esimerkki3_5/Esimerkki3_5/bin/Release/netcoreapp3.1/Esimerkki3_5.dll
+/Users/vadimzubchenko/C#projects/Esimerkki3_5/Esimerkki3_5/bin/Release/netcoreapp3.1/Esimerkki3_5.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki3_5/Esimerkki3_5/obj/Release/netcoreapp3.1/Esimerkki3_5.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki3_5/Esimerkki3_5/obj/Release/netcoreapp3.1/Esimerkki3_5.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki3_5/Esimerkki3_5/obj/Release/netcoreapp3.1/Esimerkki3_5.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Esimerkki3_5/Esimerkki3_5/obj/Release/netcoreapp3.1/Esimerkki3_5.dll
+/Users/vadimzubchenko/C#projects/Esimerkki3_5/Esimerkki3_5/obj/Release/netcoreapp3.1/Esimerkki3_5.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki3_5/Esimerkki3_5/obj/Release/netcoreapp3.1/Esimerkki3_5.genruntimeconfig.cache

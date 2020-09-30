@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Esimerkki8_7_metodin_peittaminen_new_operaatorilla/1.0.0": {
+        "runtime": {
+          "Esimerkki8_7_metodin_peittaminen_new_operaatorilla.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esimerkki8_7_metodin_peittaminen_new_operaatorilla/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

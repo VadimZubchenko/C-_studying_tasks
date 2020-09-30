@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1210C433-0E8C-46A7-B129-A684C21CC553}|Default">
+  <MonoDevelop.Ide.ItemProperties.Tehtava8__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tehtava8_2/Program.cs">
+    <Files>
+      <File FileName="Tehtava8_2/Program.cs" Line="30" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tehtava8_2" expanded="True">
+            <Node name="Tehtava8_2" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Tehtava8_2" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

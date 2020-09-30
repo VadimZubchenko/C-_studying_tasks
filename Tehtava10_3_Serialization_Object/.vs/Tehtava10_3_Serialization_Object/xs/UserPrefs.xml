@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{FA228B90-9BD8-4E9B-B2D9-7F281229AB8B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tehtava10_3_Serialization_Object/Program.cs">
+    <Files>
+      <File FileName="Tehtava10_3_Serialization_Object/Program.cs" Line="145" Column="21" />
+      <File FileName="../Esimerkki10_11_Object_Serialization_To_Binary/Esimerkki10_11_Object_Serialization_To_Binary/Esimerkki10_11.cs" Line="51" Column="74" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Tehtava10__3__Serialization__Object PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

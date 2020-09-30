@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{65320A0A-AA2F-4516-B0C0-6DFEA5A5F47C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki11_2_Exception_e_ominaisuudet/Esimerkki11_2.cs">
+    <Files>
+      <File FileName="Esimerkki11_2_Exception_e_ominaisuudet/Esimerkki11_2.cs" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki11_2_Exception_e_ominaisuudet" expanded="True">
+            <Node name="Esimerkki11_2_Exception_e_ominaisuudet" expanded="True">
+              <Node name="Esimerkki11_2.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Esimerkki11__2__Exception__e__ominaisuudet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

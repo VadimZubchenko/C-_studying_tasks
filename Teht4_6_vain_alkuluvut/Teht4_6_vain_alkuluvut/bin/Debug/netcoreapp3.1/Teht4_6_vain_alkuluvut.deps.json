@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Teht4_6_vain_alkuluvut/1.0.0": {
+        "runtime": {
+          "Teht4_6_vain_alkuluvut.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Teht4_6_vain_alkuluvut/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

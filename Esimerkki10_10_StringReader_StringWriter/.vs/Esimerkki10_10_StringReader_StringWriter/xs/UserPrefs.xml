@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{EED5FC29-CE06-41C5-B5F8-151C4AF4623C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki10_10_StringReader_StringWriter/Esimerkki10_10.cs">
+    <Files>
+      <File FileName="Esimerkki10_10_StringReader_StringWriter/Esimerkki10_10.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki10_10_StringReader_StringWriter" expanded="True">
+            <Node name="Esimerkki10_10_StringReader_StringWriter" expanded="True">
+              <Node name="Esimerkki10_10.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Esimerkki10__10__StringReader__StringWriter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

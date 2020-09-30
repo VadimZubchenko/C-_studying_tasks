@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{FDB2541B-F73C-4AB5-B434-81CE523CA430}|Default">
+  <MonoDevelop.Ide.ItemProperties.Esimerkki8__6__Metodin__eksplisiittinen__toteutus PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki8_6_Metodin_eksplisiittinen_toteutus/Esimerkki8-6.cs">
+    <Files>
+      <File FileName="Esimerkki8_6_Metodin_eksplisiittinen_toteutus/Esimerkki8-6.cs" Line="79" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki8_6_Metodin_eksplisiittinen_toteutus" expanded="True">
+            <Node name="Esimerkki8_6_Metodin_eksplisiittinen_toteutus" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Esimerkki8_6_Metodin_eksplisiittinen_toteutus" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

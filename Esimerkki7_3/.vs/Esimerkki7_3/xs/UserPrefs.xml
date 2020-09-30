@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{AB9A32B4-17E2-4EE1-AB50-DE5256EFED0B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Esimerkki7__3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki7_3/Program.cs">
+    <Files>
+      <File FileName="Esimerkki7_3/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki7_3" expanded="True" selected="True">
+            <Node name="Esimerkki7_3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

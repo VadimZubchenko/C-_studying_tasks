@@ -1,0 +1,11 @@
+/Users/vadimzubchenko/C#projects/Esimerkki7_1_periytyminen/Esimerkki7_1_periytyminen/bin/Debug/netcoreapp3.1/Esimerkki7_1_periytyminen.deps.json
+/Users/vadimzubchenko/C#projects/Esimerkki7_1_periytyminen/Esimerkki7_1_periytyminen/bin/Debug/netcoreapp3.1/Esimerkki7_1_periytyminen.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Esimerkki7_1_periytyminen/Esimerkki7_1_periytyminen/bin/Debug/netcoreapp3.1/Esimerkki7_1_periytyminen.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Esimerkki7_1_periytyminen/Esimerkki7_1_periytyminen/bin/Debug/netcoreapp3.1/Esimerkki7_1_periytyminen.dll
+/Users/vadimzubchenko/C#projects/Esimerkki7_1_periytyminen/Esimerkki7_1_periytyminen/bin/Debug/netcoreapp3.1/Esimerkki7_1_periytyminen.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki7_1_periytyminen/Esimerkki7_1_periytyminen/obj/Debug/netcoreapp3.1/Esimerkki7_1_periytyminen.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki7_1_periytyminen/Esimerkki7_1_periytyminen/obj/Debug/netcoreapp3.1/Esimerkki7_1_periytyminen.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki7_1_periytyminen/Esimerkki7_1_periytyminen/obj/Debug/netcoreapp3.1/Esimerkki7_1_periytyminen.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Esimerkki7_1_periytyminen/Esimerkki7_1_periytyminen/obj/Debug/netcoreapp3.1/Esimerkki7_1_periytyminen.dll
+/Users/vadimzubchenko/C#projects/Esimerkki7_1_periytyminen/Esimerkki7_1_periytyminen/obj/Debug/netcoreapp3.1/Esimerkki7_1_periytyminen.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki7_1_periytyminen/Esimerkki7_1_periytyminen/obj/Debug/netcoreapp3.1/Esimerkki7_1_periytyminen.genruntimeconfig.cache

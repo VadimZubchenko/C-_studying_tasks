@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{01B9AE63-FF98-4433-BA2C-33FF3FA71CE4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Teht4_6_vain_alkuluvut/Program.cs">
+    <Files>
+      <File FileName="Teht4_6_vain_alkuluvut/Program.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowVersionControlOverlays" value="False" />
+          <Node name="Teht4_6_vain_alkuluvut" expanded="True">
+            <Node name="Teht4_6_vain_alkuluvut" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Teht4__6__vain__alkuluvut PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

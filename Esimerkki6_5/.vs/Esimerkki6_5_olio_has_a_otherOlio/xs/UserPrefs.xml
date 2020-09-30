@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{B5FC83CD-637F-4DE9-8900-1C0D316BD3F9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki6_5/Esimerkki6-5.cs">
+    <Files>
+      <File FileName="Esimerkki6_5/Esimerkki6-5.cs" Line="76" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki6_5_olio_has_a_otherOlio" expanded="True" selected="True">
+            <Node name="Esimerkki6_5_olio_has_a_otherOlio" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Esimerkki6__5__olio__has__a__otherOlio PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

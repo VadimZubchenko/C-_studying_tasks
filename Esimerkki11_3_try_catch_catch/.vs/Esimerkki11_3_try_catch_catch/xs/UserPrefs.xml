@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{23485717-73E0-4DCF-A436-018450C9ACA3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Esimerkki11__3__try__catch__catch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki11_3_try_catch_catch/Esimerkki11_3.cs">
+    <Files>
+      <File FileName="Esimerkki11_3_try_catch_catch/Esimerkki11_3.cs" Line="25" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki11_3_try_catch_catch" expanded="True">
+            <Node name="Esimerkki11_3_try_catch_catch" expanded="True">
+              <Node name="Esimerkki11_3.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{4847E851-FDBF-4BAF-944D-FB019D52768E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Esimerkki9__9__BitArray__and__or__xor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki9_9_BitArray_and_or_xor/Esimerkki9-9.cs">
+    <Files>
+      <File FileName="Esimerkki9_9_BitArray_and_or_xor/Esimerkki9-9.cs" Line="72" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki9_9_BitArray_and_or_xor" expanded="True">
+            <Node name="Esimerkki9_9_BitArray_and_or_xor" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

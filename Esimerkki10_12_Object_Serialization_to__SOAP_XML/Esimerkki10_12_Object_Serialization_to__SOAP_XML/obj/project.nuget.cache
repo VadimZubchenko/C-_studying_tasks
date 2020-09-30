@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qQPvo13fqnZFl6wnhdgnhvskXBmJp0XU1P+JTg5YvEODJbaZClzyVJorxtWowPOkfV+71s9Zpg1IC2sF9WGdrw==",
+  "success": true,
+  "projectFilePath": "/Users/vadimzubchenko/C#projects/Esimerkki10_12_Object_Serialization_to__SOAP_XML/Esimerkki10_12_Object_Serialization_to__SOAP_XML/Esimerkki10_12_Object_Serialization_to__SOAP_XML.csproj",
+  "expectedPackageFiles": [
+    "/Users/vadimzubchenko/.nuget/packages/soapformatter/1.0.11/soapformatter.1.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+/Users/vadimzubchenko/C#projects/Esim2_2/Esim2_2/bin/Release/Esim2_2.exe
+/Users/vadimzubchenko/C#projects/Esim2_2/Esim2_2/obj/Release/Esim2_2.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Esim2_2/Esim2_2/obj/Release/Esim2_2.exe

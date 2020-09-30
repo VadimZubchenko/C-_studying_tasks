@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0EBB184F-E979-484F-A0B5-FFFAF06CB05F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki6_4_set_get_property_kenta/Esimerkki6-4.cs">
+    <Files>
+      <File FileName="Esimerkki6_4_set_get_property_kenta/Esimerkki6-4.cs" Line="25" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki6_4_set_get_property_kenta" expanded="True">
+            <Node name="Esimerkki6_4_set_get_property_kenta" expanded="True">
+              <Node name="Esimerkki6-4.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Esimerkki6__4__set__get__property__kenta PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

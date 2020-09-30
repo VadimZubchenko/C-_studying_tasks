@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Esimerkki5_1_luokka_olio_perus/1.0.0": {
+        "runtime": {
+          "Esimerkki5_1_luokka_olio_perus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esimerkki5_1_luokka_olio_perus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/Users/vadimzubchenko/C#projects/Esimerkki3_1_muuttujat/Esimerkki3_1_muuttujat/bin/Release/netcoreapp3.1/Esimerkki3_1_muuttujat.deps.json
+/Users/vadimzubchenko/C#projects/Esimerkki3_1_muuttujat/Esimerkki3_1_muuttujat/bin/Release/netcoreapp3.1/Esimerkki3_1_muuttujat.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Esimerkki3_1_muuttujat/Esimerkki3_1_muuttujat/bin/Release/netcoreapp3.1/Esimerkki3_1_muuttujat.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Esimerkki3_1_muuttujat/Esimerkki3_1_muuttujat/bin/Release/netcoreapp3.1/Esimerkki3_1_muuttujat.dll
+/Users/vadimzubchenko/C#projects/Esimerkki3_1_muuttujat/Esimerkki3_1_muuttujat/bin/Release/netcoreapp3.1/Esimerkki3_1_muuttujat.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki3_1_muuttujat/Esimerkki3_1_muuttujat/obj/Release/netcoreapp3.1/Esimerkki3_1_muuttujat.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki3_1_muuttujat/Esimerkki3_1_muuttujat/obj/Release/netcoreapp3.1/Esimerkki3_1_muuttujat.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki3_1_muuttujat/Esimerkki3_1_muuttujat/obj/Release/netcoreapp3.1/Esimerkki3_1_muuttujat.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Esimerkki3_1_muuttujat/Esimerkki3_1_muuttujat/obj/Release/netcoreapp3.1/Esimerkki3_1_muuttujat.dll
+/Users/vadimzubchenko/C#projects/Esimerkki3_1_muuttujat/Esimerkki3_1_muuttujat/obj/Release/netcoreapp3.1/Esimerkki3_1_muuttujat.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki3_1_muuttujat/Esimerkki3_1_muuttujat/obj/Release/netcoreapp3.1/Esimerkki3_1_muuttujat.genruntimeconfig.cache

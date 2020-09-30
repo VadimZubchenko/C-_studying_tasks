@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{6CBAEE9C-B30F-4A08-A9D4-AA582AF7E618}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tehtava9_1_ArrayList/Program.cs">
+    <Files>
+      <File FileName="Tehtava9_1_ArrayList/Program.cs" Line="25" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tehtava9_1_ArrayList" expanded="True">
+            <Node name="Tehtava9_1_ArrayList" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Tehtava9__1__ArrayList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

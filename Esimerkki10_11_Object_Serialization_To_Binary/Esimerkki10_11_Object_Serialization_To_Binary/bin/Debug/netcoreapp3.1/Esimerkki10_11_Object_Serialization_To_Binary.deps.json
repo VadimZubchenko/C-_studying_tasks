@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Esimerkki10_11_Object_Serialization_To_Binary/1.0.0": {
+        "runtime": {
+          "Esimerkki10_11_Object_Serialization_To_Binary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esimerkki10_11_Object_Serialization_To_Binary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

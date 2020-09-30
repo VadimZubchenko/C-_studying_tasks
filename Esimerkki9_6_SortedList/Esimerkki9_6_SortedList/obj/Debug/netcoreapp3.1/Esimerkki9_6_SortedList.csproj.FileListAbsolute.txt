@@ -1,0 +1,12 @@
+/Users/vadimzubchenko/C#projects/Esimerkki9_6_SortedList/Esimerkki9_6_SortedList/bin/Debug/netcoreapp3.1/Esimerkki9_6_SortedList.deps.json
+/Users/vadimzubchenko/C#projects/Esimerkki9_6_SortedList/Esimerkki9_6_SortedList/bin/Debug/netcoreapp3.1/Esimerkki9_6_SortedList.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Esimerkki9_6_SortedList/Esimerkki9_6_SortedList/bin/Debug/netcoreapp3.1/Esimerkki9_6_SortedList.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Esimerkki9_6_SortedList/Esimerkki9_6_SortedList/bin/Debug/netcoreapp3.1/Esimerkki9_6_SortedList.dll
+/Users/vadimzubchenko/C#projects/Esimerkki9_6_SortedList/Esimerkki9_6_SortedList/bin/Debug/netcoreapp3.1/Esimerkki9_6_SortedList.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki9_6_SortedList/Esimerkki9_6_SortedList/obj/Debug/netcoreapp3.1/Esimerkki9_6_SortedList.csprojAssemblyReference.cache
+/Users/vadimzubchenko/C#projects/Esimerkki9_6_SortedList/Esimerkki9_6_SortedList/obj/Debug/netcoreapp3.1/Esimerkki9_6_SortedList.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki9_6_SortedList/Esimerkki9_6_SortedList/obj/Debug/netcoreapp3.1/Esimerkki9_6_SortedList.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki9_6_SortedList/Esimerkki9_6_SortedList/obj/Debug/netcoreapp3.1/Esimerkki9_6_SortedList.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Esimerkki9_6_SortedList/Esimerkki9_6_SortedList/obj/Debug/netcoreapp3.1/Esimerkki9_6_SortedList.dll
+/Users/vadimzubchenko/C#projects/Esimerkki9_6_SortedList/Esimerkki9_6_SortedList/obj/Debug/netcoreapp3.1/Esimerkki9_6_SortedList.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki9_6_SortedList/Esimerkki9_6_SortedList/obj/Debug/netcoreapp3.1/Esimerkki9_6_SortedList.genruntimeconfig.cache

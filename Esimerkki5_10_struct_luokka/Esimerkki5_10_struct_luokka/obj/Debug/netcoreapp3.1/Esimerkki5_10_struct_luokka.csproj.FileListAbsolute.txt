@@ -1,0 +1,11 @@
+/Users/vadimzubchenko/C#projects/Esimerkki5_10_struct_luokka/Esimerkki5_10_struct_luokka/bin/Debug/netcoreapp3.1/Esimerkki5_10_struct_luokka.deps.json
+/Users/vadimzubchenko/C#projects/Esimerkki5_10_struct_luokka/Esimerkki5_10_struct_luokka/bin/Debug/netcoreapp3.1/Esimerkki5_10_struct_luokka.runtimeconfig.json
+/Users/vadimzubchenko/C#projects/Esimerkki5_10_struct_luokka/Esimerkki5_10_struct_luokka/bin/Debug/netcoreapp3.1/Esimerkki5_10_struct_luokka.runtimeconfig.dev.json
+/Users/vadimzubchenko/C#projects/Esimerkki5_10_struct_luokka/Esimerkki5_10_struct_luokka/bin/Debug/netcoreapp3.1/Esimerkki5_10_struct_luokka.dll
+/Users/vadimzubchenko/C#projects/Esimerkki5_10_struct_luokka/Esimerkki5_10_struct_luokka/bin/Debug/netcoreapp3.1/Esimerkki5_10_struct_luokka.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki5_10_struct_luokka/Esimerkki5_10_struct_luokka/obj/Debug/netcoreapp3.1/Esimerkki5_10_struct_luokka.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki5_10_struct_luokka/Esimerkki5_10_struct_luokka/obj/Debug/netcoreapp3.1/Esimerkki5_10_struct_luokka.AssemblyInfoInputs.cache
+/Users/vadimzubchenko/C#projects/Esimerkki5_10_struct_luokka/Esimerkki5_10_struct_luokka/obj/Debug/netcoreapp3.1/Esimerkki5_10_struct_luokka.AssemblyInfo.cs
+/Users/vadimzubchenko/C#projects/Esimerkki5_10_struct_luokka/Esimerkki5_10_struct_luokka/obj/Debug/netcoreapp3.1/Esimerkki5_10_struct_luokka.dll
+/Users/vadimzubchenko/C#projects/Esimerkki5_10_struct_luokka/Esimerkki5_10_struct_luokka/obj/Debug/netcoreapp3.1/Esimerkki5_10_struct_luokka.pdb
+/Users/vadimzubchenko/C#projects/Esimerkki5_10_struct_luokka/Esimerkki5_10_struct_luokka/obj/Debug/netcoreapp3.1/Esimerkki5_10_struct_luokka.genruntimeconfig.cache

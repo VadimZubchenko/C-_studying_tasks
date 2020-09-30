@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Esimerkki9_2_olioiden_lajittelu_IEnumerator/1.0.0": {
+        "runtime": {
+          "Esimerkki9_2_olioiden_lajittelu_IEnumerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esimerkki9_2_olioiden_lajittelu_IEnumerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

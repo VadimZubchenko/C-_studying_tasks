@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esimerkki3_5_metodi_ref_parametri", "Esimerkki3_5_metodi_ref_parametri\Esimerkki3_5_metodi_ref_parametri.csproj", "{FFCE1F32-61E2-486E-A795-42A3E208059F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFCE1F32-61E2-486E-A795-42A3E208059F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCE1F32-61E2-486E-A795-42A3E208059F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCE1F32-61E2-486E-A795-42A3E208059F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCE1F32-61E2-486E-A795-42A3E208059F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

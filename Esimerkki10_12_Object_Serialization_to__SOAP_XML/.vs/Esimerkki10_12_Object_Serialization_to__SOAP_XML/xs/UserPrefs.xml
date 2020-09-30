@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{33374588-D83F-4DF2-BFF6-10C0AFA9AE27}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Esimerkki10_12_Object_Serialization_to__SOAP_XML/Esimerkki10_12.cs">
+    <Files>
+      <File FileName="Esimerkki10_12_Object_Serialization_to__SOAP_XML/Esimerkki10_12.cs" Line="98" Column="10" />
+      <File FileName="../Tehtava10_4_4/Tehtava10_4_4/Program.cs" Line="113" Column="5" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Esimerkki10_12_Object_Serialization_to__SOAP_XML" expanded="True">
+            <Node name="Esimerkki10_12_Object_Serialization_to__SOAP_XML" expanded="True">
+              <Node name="Esimerkki10_12.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Esimerkki10__12__Object__Serialization__to____SOAP__XML PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

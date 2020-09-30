@@ -1,0 +1,6 @@
+/Users/vadimzubchenko/C#projects/Esim2_2/Esim2_2/obj/Debug/Esim2_2.csprojAssemblyReference.cache
+/Users/vadimzubchenko/C#projects/Esim2_2/Esim2_2/obj/Debug/Esim2_2.csproj.CoreCompileInputs.cache
+/Users/vadimzubchenko/C#projects/Esim2_2/Esim2_2/bin/Debug/Esim2_2.exe
+/Users/vadimzubchenko/C#projects/Esim2_2/Esim2_2/bin/Debug/Esim2_2.pdb
+/Users/vadimzubchenko/C#projects/Esim2_2/Esim2_2/obj/Debug/Esim2_2.exe
+/Users/vadimzubchenko/C#projects/Esim2_2/Esim2_2/obj/Debug/Esim2_2.pdb

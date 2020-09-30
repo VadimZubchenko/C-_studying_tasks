@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vadimzubchenko/C#projects/Tehtava9_2_ArrayList_CompareTo/Tehtava9_2_ArrayList_CompareTo/Tehtava9_2_ArrayList_CompareTo.csproj": {}
+  },
+  "projects": {
+    "/Users/vadimzubchenko/C#projects/Tehtava9_2_ArrayList_CompareTo/Tehtava9_2_ArrayList_CompareTo/Tehtava9_2_ArrayList_CompareTo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vadimzubchenko/C#projects/Tehtava9_2_ArrayList_CompareTo/Tehtava9_2_ArrayList_CompareTo/Tehtava9_2_ArrayList_CompareTo.csproj",
+        "projectName": "Tehtava9_2_ArrayList_CompareTo",
+        "projectPath": "/Users/vadimzubchenko/C#projects/Tehtava9_2_ArrayList_CompareTo/Tehtava9_2_ArrayList_CompareTo/Tehtava9_2_ArrayList_CompareTo.csproj",
+        "packagesPath": "/Users/vadimzubchenko/.nuget/packages/",
+        "outputPath": "/Users/vadimzubchenko/C#projects/Tehtava9_2_ArrayList_CompareTo/Tehtava9_2_ArrayList_CompareTo/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/vadimzubchenko/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
